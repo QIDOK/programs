@@ -1,0 +1,1775 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 33,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 614.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fun",
+						"function\t(login.php)"
+					],
+					[
+						"cap",
+						"captcha\tabc"
+					],
+					[
+						"fu",
+						"function\t(login.php)"
+					],
+					[
+						"serv",
+						"server\tabc"
+					],
+					[
+						"s",
+						"s-resize\tcursor"
+					],
+					[
+						"cur",
+						"cursor\tproperty"
+					],
+					[
+						"Вы",
+						"Выберите\tabc"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"filt",
+						"filter_var"
+					],
+					[
+						"bac",
+						"background-attachment\tproperty"
+					],
+					[
+						"bo",
+						"bottom\tproperty"
+					],
+					[
+						"mar",
+						"margin-left\t(captcha.php)"
+					],
+					[
+						"toas",
+						"toast.js\tabc"
+					],
+					[
+						"w",
+						"wrongparol\tabc"
+					],
+					[
+						"min",
+						"min-height\tproperty"
+					],
+					[
+						"ba",
+						"background-attachment\tproperty"
+					],
+					[
+						"he",
+						"height\t(captcha.php)"
+					],
+					[
+						"st",
+						"style\tabc"
+					],
+					[
+						"PHP",
+						"PHP_SELF\tabc"
+					],
+					[
+						"nav",
+						"nav-link\tabc"
+					],
+					[
+						"ma",
+						"margin-bottom\tproperty"
+					],
+					[
+						"font",
+						"font-family\tproperty"
+					],
+					[
+						"fon",
+						"font-size\tproperty"
+					],
+					[
+						"pro",
+						"profile.php\tabc"
+					],
+					[
+						"hea",
+						"header('Content-type\tabc"
+					],
+					[
+						"incl",
+						"include\t(login.php)"
+					],
+					[
+						"head",
+						"head\t(header.php)"
+					],
+					[
+						"cus",
+						"custom-radio\tabc"
+					],
+					[
+						"custo",
+						"custom-radio\t(index.html)"
+					],
+					[
+						"fo",
+						"form-validation.css\t(index.html)"
+					],
+					[
+						"cust",
+						"custom-control-label\t(index.html)"
+					],
+					[
+						"wo",
+						"word-spacing\tproperty"
+					],
+					[
+						"form",
+						"form-control\t(login.php)"
+					],
+					[
+						"и",
+						"изображение\tabc"
+					],
+					[
+						"boo",
+						"bootstrap.css\tabc"
+					],
+					[
+						"boot",
+						"bootstrap.min.js\tabc"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"border-ti",
+						"border-top-right-radius\tproperty"
+					],
+					[
+						"padi",
+						"padding-top\tproperty"
+					],
+					[
+						"marg",
+						"margin-left\tproperty"
+					],
+					[
+						"un",
+						"uncover-container\t(cover.css)"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"te",
+						"text-align\tproperty"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"imagede",
+						"imagedestroy"
+					],
+					[
+						"ima",
+						"image\tabc"
+					],
+					[
+						"imagetf",
+						"imagettftext"
+					],
+					[
+						"session_de",
+						"session_destroy"
+					],
+					[
+						"sess",
+						"session_destroy"
+					],
+					[
+						"set_char",
+						"mysql_set_charset"
+					],
+					[
+						"t",
+						"text\t(beseda.php)"
+					],
+					[
+						"for",
+						"forum.php\tabc"
+					],
+					[
+						"inde",
+						"index.php\tabc"
+					],
+					[
+						"foote",
+						"footer.php\t(forum.php)"
+					],
+					[
+						"inc",
+						"include\tabc"
+					],
+					[
+						"foo",
+						"footer.php\t(index.php)"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"cent",
+						"central\t(index.php)"
+					],
+					[
+						"d",
+						"div\tTag"
+					],
+					[
+						"ce",
+						"central\t(cover.css)"
+					],
+					[
+						"na",
+						"nav-link\tabc"
+					],
+					[
+						"Co",
+						"Courier\t(bootstrap.css)"
+					],
+					[
+						"E",
+						"Emoji\t(bootstrap.css)"
+					],
+					[
+						"textd",
+						"text-decoration-color\tproperty"
+					],
+					[
+						"text-a",
+						"text-align\tproperty"
+					],
+					[
+						"margin",
+						"margin-bottom\tproperty"
+					],
+					[
+						"padd",
+						"padding-left\tproperty"
+					],
+					[
+						"pan",
+						"padding-bottom\tproperty"
+					],
+					[
+						"background-",
+						"background-image\tproperty"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"a",
+						"audio\tabc"
+					],
+					[
+						"al",
+						"align='center\t(index.php)"
+					],
+					[
+						"i",
+						"i\tTag"
+					],
+					[
+						"sc",
+						"src\t(index.php)"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"ou",
+						"output\tabc"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"LI",
+						"LimitLOGO.jpg\tabc"
+					],
+					[
+						"Limi",
+						"LimitLOGO.jpg\tabc"
+					],
+					[
+						"font-s",
+						"font-size\t(style.css)"
+					],
+					[
+						"pading",
+						"padding\t(style.css)"
+					],
+					[
+						"do",
+						"double\tborder-bottom"
+					],
+					[
+						"hr",
+						"href=\"/registration.php\tabc"
+					],
+					[
+						"id",
+						"id=\"mainanim\tabc"
+					],
+					[
+						"co",
+						"Courier"
+					],
+					[
+						"re",
+						"registration.php\tabc"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"backgr",
+						"background-image\tproperty"
+					],
+					[
+						"ti",
+						"title\tTag"
+					],
+					[
+						"mys",
+						"mysqli\tabc"
+					],
+					[
+						"m",
+						"myDIV\tabc"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"html",
+						"html\thtml"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"A File Icon: Revert to a Freshly Installed State"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageResourceViewer: Open Resource",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 161.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/OpenServer/domains/limitproject.ru/ntehparol.php",
+				"/E/OpenServer/domains/limitproject.ru/footer.php",
+				"/E/OpenServer/domains/limitproject.ru/captcha.php",
+				"/E/OpenServer/domains/limitproject.ru/login-captcha.php",
+				"/E/OpenServer/domains/limitproject.ru/nparol.php",
+				"/E/OpenServer/domains/example/checkout.example/index.html",
+				"/E/OpenServer/domains/limitproject.ru/header.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_9050789-7db09718658e685cf6931af0f2892d1a45d029d9.zip/9050789-7db09718658e685cf6931af0f2892d1a45d029d9/demo.php",
+				"/E/OpenServer/domains/limitproject.ru/login.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap.css",
+				"/E/OpenServer/domains/limitproject.ru/auth.php",
+				"/E/OpenServer/domains/limitproject.ru/hlcp.php",
+				"/E/OpenServer/domains/limitproject.ru/hl.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/js/toast.js",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/toast.css",
+				"/E/OpenServer/domains/limitproject.ru/if_captcha.php",
+				"/E/OpenServer/domains/limitproject.ru/index.php",
+				"/E/OpenServer/domains/captcha.example/captcha.php",
+				"/E/OpenServer/domains/captcha.example/index.php",
+				"/E/OpenServer/domains/captcha.example/index.html",
+				"/E/OpenServer/domains/limitproject.ru/.htaccess",
+				"/E/OpenServer/domains/captcha.example/css/bootstrap.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap.min.css",
+				"/E/OpenServer/domains/captcha.example/verify.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/captcha.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/verify.php",
+				"/E/OpenServer/domains/limitproject.ru/verify.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/cover.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/login.css",
+				"/E/captcha.php",
+				"/E/OpenServer/domains/example/sign-in.example/signin.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/style.css",
+				"/E/OpenServer/domains/limitproject.ru/dbconnect.php",
+				"/E/vk_bots/beseda.php",
+				"/E/OpenServer/domains/example/checkout.example/dist/css/bootstrap.css",
+				"/E/OpenServer/domains/limitproject.ru/forum.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-reboot.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-reboot.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-grid.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-grid.css",
+				"/E/OpenServer/domains/example/checkout.example/form-validation.css",
+				"/E/OpenServer/domains/limitproject.ru/functions.php",
+				"/E/openserver/domains/limitproject.ru/assets/dist/css/bootstrap.css",
+				"/E/openserver/domains/limitproject.ru/assets/dist/css/cover.css",
+				"/E/openserver/domains/limitproject.ru/functions.php",
+				"/E/openserver/domains/limitproject.ru/forum.php",
+				"/E/openserver/domains/limitproject.ru/index.php",
+				"/E/openserver/domains/limitproject.ru/auth.php",
+				"/E/openserver/domains/example/sign-in.example/index.html",
+				"/E/openserver/domains/limitproject.ru/registration.php",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/cover.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-reboot.min.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-reboot.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-grid.min.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-grid.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap.min.css",
+				"/E/OpenServer/domains/razrabotka.net/index.php",
+				"/E/OpenServer/domains/razrabotka.net/index.html",
+				"/E/index.html",
+				"/E/openserver/domains/example/cover.example/index.html",
+				"/E/openserver/domains/example/cover.example/cover.css",
+				"/E/openserver/domains/limitproject.ru/css/style.css",
+				"/C/Users/Александр/Desktop/bootstrap-4.5.0-examples/sign-in/index.html",
+				"/E/openserver/domains/example/grid.example/index.html",
+				"/E/openserver/domains/example/floating-labels.example/index.html",
+				"/E/openserver/domains/example/dashboard.example/index.html",
+				"/E/openserver/domains/example/blog.example/index.html",
+				"/E/openserver/domains/checkout.example/index.html",
+				"/E/openserver/domains/example/blog.example/blog.css",
+				"/E/openserver/domains/example/album.example/index.html",
+				"/E/OpenServer/domains/carousel.example/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/carousel/carousel.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-reboot.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-reboot.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-grid.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-grid.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.css",
+				"/E/OpenServer/domains/checkout.example/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/jumbotron/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/jumbotron/jumbotron.css",
+				"/E/OpenServer/domains/checkout.example/form-validation.js",
+				"/E/OpenServer/domains/checkout.example/form-validation.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.css.map",
+				"/E/OpenServer/domains/ucheba.my/css/style.css",
+				"/E/OpenServer/domains/ucheba.my/HTML.php",
+				"/E/OpenServer/domains/ucheba.my/index.php",
+				"/E/OpenServer/domains/limitproject.ru/registration.php",
+				"/E/OpenServer/domains/checkout/form-validation.css",
+				"/E/OpenServer/domains/checkout/form-validation.js",
+				"/E/OpenServer/domains/checkout/index.html",
+				"/E/OpenServer/domains/limitproject.ru/css/style.css",
+				"/C/Users/Александр/Desktop/FAQ.url",
+				"/E/OpenServer/domains/ucheba.my/css/Стили.css",
+				"/E/Курсы/HTML",
+				"/C/Users/Александр/Downloads/watch.html",
+				"/E/OpenServer/domains/limitproject.ru/auth.html",
+				"/E/OpenServer/domains/limitproject.ru/registration.html",
+				"/E/OpenServer/domains/miltonproject.ru/index.php",
+				"/E/OpenServer/domains/miltonproject.ru/functions.php",
+				"/E/OpenServer/domains/miltonproject.ru/registration.html",
+				"/E/OpenServer/domains/miltonproject.ru/auth.html",
+				"/E/OpenServer/domains/miltonproject.ru/Ввод.html",
+				"/E/OpenServer/domains/miltonproject.ru/Ввод.php",
+				"/D/OpenServer/domains/miltonproject.ru/index.php",
+				"/C/Users/Галин/Desktop/форум"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"default",
+					".pointer",
+					"#",
+					"f",
+					"}",
+					"nav",
+					"form-co",
+					"<div style=\"text-align:center;\">\n        <div style=\"display:block;margin-bottom:20px;margin-top:20px;\">\n            <img src=\"image<?php echo $_SESSION['count'] ?>.png\" style=\"float: left; margin-left: 12%; margin-right: 1%; border-radius: 0.75rem\">\n        </div>",
+					"?>\n",
+					"src",
+					"captcha.php",
+					"captcha",
+					"captcha.php",
+					"<",
+					".custom-select",
+					"custo",
+					"20px",
+					"border-radius: 0.25rem",
+					".form-control",
+					".form-c",
+					"d-flex",
+					"cover-container",
+					"cover-co",
+					"container",
+					" \">",
+					"class",
+					"custom-select",
+					"40",
+					"form-co",
+					"custom-select",
+					"auth",
+					"footer",
+					"mast",
+					"inner",
+					"cover",
+					"-->\n",
+					"МЕДИА",
+					">\n",
+					"Создание полосы",
+					"align",
+					" \t\t\t?",
+					"font",
+					"100%",
+					"100",
+					"145px",
+					"%;",
+					"0",
+					"3",
+					"6",
+					"6s",
+					">\n",
+					"<!--",
+					"size_up",
+					"mymove",
+					"Milton",
+					"' ",
+					"возраст",
+					"year",
+					"php",
+					">",
+					"password",
+					"italic",
+					"+k",
+					"+b"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 163.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1239.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ord",
+						"order\t(bootstrap.css)"
+					],
+					[
+						"sessio",
+						"session_start"
+					],
+					[
+						"session",
+						"session_start"
+					],
+					[
+						"ar",
+						"armi20_armi24\t(tehdev.php)"
+					],
+					[
+						"mu",
+						"mysqli_query\tabc"
+					],
+					[
+						"inde",
+						"index.php\t(header.php)"
+					],
+					[
+						"a",
+						"auto\tabc"
+					],
+					[
+						"mar",
+						"margin-bottom\tabc"
+					],
+					[
+						"st",
+						"style\tTag"
+					],
+					[
+						"cov",
+						"cover.css\t(header.php)"
+					],
+					[
+						"bac",
+						"background-color\tproperty"
+					],
+					[
+						"de",
+						"developer\t(tehdev.php)"
+					],
+					[
+						"rel",
+						"relative\tposition"
+					],
+					[
+						"pos",
+						"position\tproperty"
+					],
+					[
+						"font",
+						"font-weight\t(bootstrap.css)"
+					],
+					[
+						"foote",
+						"footer.php\t(login-captcha.php)"
+					],
+					[
+						"fun",
+						"function\t(login.php)"
+					],
+					[
+						"cap",
+						"captcha\tabc"
+					],
+					[
+						"fu",
+						"function\t(login.php)"
+					],
+					[
+						"serv",
+						"server\tabc"
+					],
+					[
+						"s",
+						"s-resize\tcursor"
+					],
+					[
+						"cur",
+						"cursor\tproperty"
+					],
+					[
+						"Вы",
+						"Выберите\tabc"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"filt",
+						"filter_var"
+					],
+					[
+						"bo",
+						"bottom\tproperty"
+					],
+					[
+						"toas",
+						"toast.js\tabc"
+					],
+					[
+						"w",
+						"wrongparol\tabc"
+					],
+					[
+						"min",
+						"min-height\tproperty"
+					],
+					[
+						"ba",
+						"background-attachment\tproperty"
+					],
+					[
+						"he",
+						"height\t(captcha.php)"
+					],
+					[
+						"PHP",
+						"PHP_SELF\tabc"
+					],
+					[
+						"nav",
+						"nav-link\tabc"
+					],
+					[
+						"ma",
+						"margin-bottom\tproperty"
+					],
+					[
+						"fon",
+						"font-size\tproperty"
+					],
+					[
+						"pro",
+						"profile.php\tabc"
+					],
+					[
+						"hea",
+						"header('Content-type\tabc"
+					],
+					[
+						"incl",
+						"include\t(login.php)"
+					],
+					[
+						"head",
+						"head\t(header.php)"
+					],
+					[
+						"cus",
+						"custom-radio\tabc"
+					],
+					[
+						"custo",
+						"custom-radio\t(index.html)"
+					],
+					[
+						"fo",
+						"form-validation.css\t(index.html)"
+					],
+					[
+						"cust",
+						"custom-control-label\t(index.html)"
+					],
+					[
+						"wo",
+						"word-spacing\tproperty"
+					],
+					[
+						"form",
+						"form-control\t(login.php)"
+					],
+					[
+						"и",
+						"изображение\tabc"
+					],
+					[
+						"boo",
+						"bootstrap.css\tabc"
+					],
+					[
+						"boot",
+						"bootstrap.min.js\tabc"
+					],
+					[
+						"tex",
+						"text-align\tproperty"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"border-ti",
+						"border-top-right-radius\tproperty"
+					],
+					[
+						"padi",
+						"padding-top\tproperty"
+					],
+					[
+						"marg",
+						"margin-left\tproperty"
+					],
+					[
+						"un",
+						"uncover-container\t(cover.css)"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"te",
+						"text-align\tproperty"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"imagede",
+						"imagedestroy"
+					],
+					[
+						"ima",
+						"image\tabc"
+					],
+					[
+						"imagetf",
+						"imagettftext"
+					],
+					[
+						"session_de",
+						"session_destroy"
+					],
+					[
+						"sess",
+						"session_destroy"
+					],
+					[
+						"set_char",
+						"mysql_set_charset"
+					],
+					[
+						"t",
+						"text\t(beseda.php)"
+					],
+					[
+						"for",
+						"forum.php\tabc"
+					],
+					[
+						"inc",
+						"include\tabc"
+					],
+					[
+						"foo",
+						"footer.php\t(index.php)"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"cent",
+						"central\t(index.php)"
+					],
+					[
+						"d",
+						"div\tTag"
+					],
+					[
+						"ce",
+						"central\t(cover.css)"
+					],
+					[
+						"na",
+						"nav-link\tabc"
+					],
+					[
+						"Co",
+						"Courier\t(bootstrap.css)"
+					],
+					[
+						"E",
+						"Emoji\t(bootstrap.css)"
+					],
+					[
+						"textd",
+						"text-decoration-color\tproperty"
+					],
+					[
+						"text-a",
+						"text-align\tproperty"
+					],
+					[
+						"margin",
+						"margin-bottom\tproperty"
+					],
+					[
+						"padd",
+						"padding-left\tproperty"
+					],
+					[
+						"pan",
+						"padding-bottom\tproperty"
+					],
+					[
+						"background-",
+						"background-image\tproperty"
+					],
+					[
+						"li",
+						"link\tTag"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"al",
+						"align='center\t(index.php)"
+					],
+					[
+						"i",
+						"i\tTag"
+					],
+					[
+						"sc",
+						"src\t(index.php)"
+					],
+					[
+						"h",
+						"html\thtml"
+					],
+					[
+						"ou",
+						"output\tabc"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"LI",
+						"LimitLOGO.jpg\tabc"
+					],
+					[
+						"Limi",
+						"LimitLOGO.jpg\tabc"
+					],
+					[
+						"font-s",
+						"font-size\t(style.css)"
+					],
+					[
+						"pading",
+						"padding\t(style.css)"
+					],
+					[
+						"do",
+						"double\tborder-bottom"
+					],
+					[
+						"hr",
+						"href=\"/registration.php\tabc"
+					],
+					[
+						"id",
+						"id=\"mainanim\tabc"
+					],
+					[
+						"co",
+						"Courier"
+					],
+					[
+						"re",
+						"registration.php\tabc"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"backgr",
+						"background-image\tproperty"
+					],
+					[
+						"ti",
+						"title\tTag"
+					],
+					[
+						"mys",
+						"mysqli\tabc"
+					],
+					[
+						"m",
+						"myDIV\tabc"
+					],
+					[
+						"php",
+						"php"
+					],
+					[
+						"html",
+						"html\thtml"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/index.html",
+					"settings":
+					{
+						"buffer_size": 1289,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/css/style.css",
+					"settings":
+					{
+						"buffer_size": 659,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/css/popup.css",
+					"settings":
+					{
+						"buffer_size": 2882,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 1188,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"A File Icon: Revert to a Freshly Installed State"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageResourceViewer",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"PackageResourceViewer: Open Resource",
+						"PackageResourceViewer: Open Resource"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 161.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/OpenServer/domains/limitproject.ru/auth.php",
+				"/E/OpenServer/domains/limitproject.ru/.htaccess",
+				"/E/OpenServer/domains/limitproject.ru/login.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap.css",
+				"/E/OpenServer/domains/limitproject.ru/login-captcha.php",
+				"/E/OpenServer/domains/limitproject.ru/captcha.php",
+				"/E/OpenServer/domains/limitproject.ru/ncaptcha.php",
+				"/E/OpenServer/domains/limitproject.ru/header.php",
+				"/E/OpenServer/domains/limitproject.ru/index.php",
+				"/E/OpenServer/domains/limitproject.ru/parol.php",
+				"/E/OpenServer/domains/limitproject.ru/tehdev.php",
+				"/E/OpenServer/domains/limitproject.ru/footer.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_9050789-7db09718658e685cf6931af0f2892d1a45d029d9.zip/9050789-7db09718658e685cf6931af0f2892d1a45d029d9/demo.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/cover.css",
+				"/E/OpenServer/domains/limitproject.ru/hlcp.php",
+				"/E/OpenServer/domains/limitproject.ru/hl.php",
+				"/E/OpenServer/domains/limitproject.ru/ntehparol.php",
+				"/E/OpenServer/domains/limitproject.ru/nparol.php",
+				"/E/OpenServer/domains/example/checkout.example/index.html",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/js/toast.js",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/toast.css",
+				"/E/OpenServer/domains/limitproject.ru/if_captcha.php",
+				"/E/OpenServer/domains/captcha.example/captcha.php",
+				"/E/OpenServer/domains/captcha.example/index.php",
+				"/E/OpenServer/domains/captcha.example/index.html",
+				"/E/OpenServer/domains/captcha.example/css/bootstrap.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap.min.css",
+				"/E/OpenServer/domains/captcha.example/verify.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/captcha.php",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_captcha.zip/verify.php",
+				"/E/OpenServer/domains/limitproject.ru/verify.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/login.css",
+				"/E/captcha.php",
+				"/E/OpenServer/domains/example/sign-in.example/signin.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/style.css",
+				"/E/OpenServer/domains/limitproject.ru/dbconnect.php",
+				"/E/vk_bots/beseda.php",
+				"/E/OpenServer/domains/example/checkout.example/dist/css/bootstrap.css",
+				"/E/OpenServer/domains/limitproject.ru/forum.php",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-reboot.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-reboot.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-grid.min.css",
+				"/E/OpenServer/domains/limitproject.ru/assets/dist/css/bootstrap-grid.css",
+				"/E/OpenServer/domains/example/checkout.example/form-validation.css",
+				"/E/OpenServer/domains/limitproject.ru/functions.php",
+				"/E/openserver/domains/limitproject.ru/assets/dist/css/bootstrap.css",
+				"/E/openserver/domains/limitproject.ru/assets/dist/css/cover.css",
+				"/E/openserver/domains/limitproject.ru/functions.php",
+				"/E/openserver/domains/limitproject.ru/forum.php",
+				"/E/openserver/domains/limitproject.ru/index.php",
+				"/E/openserver/domains/limitproject.ru/auth.php",
+				"/E/openserver/domains/example/sign-in.example/index.html",
+				"/E/openserver/domains/limitproject.ru/registration.php",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/cover.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-reboot.min.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-reboot.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-grid.min.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap-grid.css",
+				"/E/openserver/domains/limitproject.ru/dist/css/bootstrap.min.css",
+				"/E/OpenServer/domains/razrabotka.net/index.php",
+				"/E/OpenServer/domains/razrabotka.net/index.html",
+				"/E/index.html",
+				"/E/openserver/domains/example/cover.example/index.html",
+				"/E/openserver/domains/example/cover.example/cover.css",
+				"/E/openserver/domains/limitproject.ru/css/style.css",
+				"/C/Users/Александр/Desktop/bootstrap-4.5.0-examples/sign-in/index.html",
+				"/E/openserver/domains/example/grid.example/index.html",
+				"/E/openserver/domains/example/floating-labels.example/index.html",
+				"/E/openserver/domains/example/dashboard.example/index.html",
+				"/E/openserver/domains/example/blog.example/index.html",
+				"/E/openserver/domains/checkout.example/index.html",
+				"/E/openserver/domains/example/blog.example/blog.css",
+				"/E/openserver/domains/example/album.example/index.html",
+				"/E/OpenServer/domains/carousel.example/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/carousel/carousel.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-reboot.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-reboot.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-grid.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap-grid.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.min.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.css",
+				"/E/OpenServer/domains/checkout.example/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/jumbotron/index.html",
+				"/C/Users/Александр/AppData/Local/Temp/Temp1_bootstrap-4.5.0-examples.zip/bootstrap-4.5.0-examples/jumbotron/jumbotron.css",
+				"/E/OpenServer/domains/checkout.example/form-validation.js",
+				"/E/OpenServer/domains/checkout.example/form-validation.css",
+				"/E/OpenServer/domains/limitproject.ru/css/bootstrap.css.map",
+				"/E/OpenServer/domains/ucheba.my/css/style.css",
+				"/E/OpenServer/domains/ucheba.my/HTML.php",
+				"/E/OpenServer/domains/ucheba.my/index.php",
+				"/E/OpenServer/domains/limitproject.ru/registration.php",
+				"/E/OpenServer/domains/checkout/form-validation.css",
+				"/E/OpenServer/domains/checkout/form-validation.js",
+				"/E/OpenServer/domains/checkout/index.html",
+				"/E/OpenServer/domains/limitproject.ru/css/style.css",
+				"/C/Users/Александр/Desktop/FAQ.url",
+				"/E/OpenServer/domains/ucheba.my/css/Стили.css",
+				"/E/Курсы/HTML",
+				"/C/Users/Александр/Downloads/watch.html",
+				"/E/OpenServer/domains/limitproject.ru/auth.html",
+				"/E/OpenServer/domains/limitproject.ru/registration.html",
+				"/E/OpenServer/domains/miltonproject.ru/index.php",
+				"/E/OpenServer/domains/miltonproject.ru/functions.php",
+				"/E/OpenServer/domains/miltonproject.ru/registration.html",
+				"/E/OpenServer/domains/miltonproject.ru/auth.html",
+				"/E/OpenServer/domains/miltonproject.ru/Ввод.html",
+				"/E/OpenServer/domains/miltonproject.ru/Ввод.php",
+				"/D/OpenServer/domains/miltonproject.ru/index.php",
+				"/C/Users/Галин/Desktop/форум"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"web",
+					" '",
+					"default",
+					".pointer",
+					"#",
+					"f",
+					"}",
+					"nav",
+					"form-co",
+					"<div style=\"text-align:center;\">\n        <div style=\"display:block;margin-bottom:20px;margin-top:20px;\">\n            <img src=\"image<?php echo $_SESSION['count'] ?>.png\" style=\"float: left; margin-left: 12%; margin-right: 1%; border-radius: 0.75rem\">\n        </div>",
+					"?>\n",
+					"src",
+					"captcha.php",
+					"captcha",
+					"captcha.php",
+					"<",
+					".custom-select",
+					"custo",
+					"20px",
+					"border-radius: 0.25rem",
+					".form-control",
+					".form-c",
+					"d-flex",
+					"cover-container",
+					"cover-co",
+					"container",
+					" \">",
+					"class",
+					"custom-select",
+					"40",
+					"form-co",
+					"custom-select",
+					"auth",
+					"footer",
+					"mast",
+					"inner",
+					"cover",
+					"-->\n",
+					"МЕДИА",
+					">\n",
+					"Создание полосы",
+					"align",
+					" \t\t\t?",
+					"font",
+					"100%",
+					"100",
+					"145px",
+					"%;",
+					"0",
+					"3",
+					"6",
+					"6s",
+					">\n",
+					"<!--",
+					"size_up",
+					"mymove",
+					"Milton",
+					"' ",
+					"возраст",
+					"year",
+					"php",
+					">",
+					"password",
+					"italic",
+					"+k",
+					"+b"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1289,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_helper.box_height": 22,
+									"color_helper.color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+									"color_helper.file_palette":
+									[
+										"#808080ff"
+									],
+									"color_helper.preview_meta":
+									{
+									},
+									"color_helper.refresh": false,
+									"color_helper.scan":
+									{
+										"allow_scanning": true,
+										"color_class":
+										[
+											{
+												"class": "css-level-4",
+												"scopes": ""
+											}
+										],
+										"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+										"current_ext": ".html",
+										"current_syntax": "HTML/HTML",
+										"enabled": true,
+										"last_updated": 1617769786.57,
+										"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+									},
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/css/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_helper.box_height": 22,
+									"color_helper.color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+									"color_helper.refresh": false,
+									"color_helper.scan":
+									{
+										"allow_scanning": true,
+										"color_class":
+										[
+											{
+												"class": "css-level-4",
+												"scopes": ""
+											}
+										],
+										"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+										"current_ext": ".css",
+										"current_syntax": "CSS/CSS",
+										"enabled": true,
+										"last_updated": 1617769786.57,
+										"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+									},
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/css/popup.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2882,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_helper.refresh": true,
+									"color_helper.scan":
+									{
+										"allow_scanning": true,
+										"color_class":
+										[
+											{
+												"class": "css-level-4",
+												"scopes": ""
+											}
+										],
+										"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+										"current_ext": ".css",
+										"current_syntax": "CSS/CSS",
+										"enabled": true,
+										"last_updated": 1617769786.57,
+										"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+									},
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/C/Users/lyubi/Desktop/GitLoad/AngularProject/js/scripts.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1188,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										390,
+										390
+									]
+								],
+								"settings":
+								{
+									"color_helper.refresh": true,
+									"color_helper.scan":
+									{
+										"allow_scanning": false,
+										"color_class":
+										[
+											{
+												"class": "css-level-4",
+												"scopes": ""
+											}
+										],
+										"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+										"current_ext": ".js",
+										"current_syntax": "JavaScript/JavaScript",
+										"enabled": true,
+										"last_updated": 1617769786.57,
+										"scanning": "-comment -string"
+									},
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 157.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.630154639175,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 126.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,830,522,157,1777",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 163.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
