@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\CHANGELOG.md" checksum="DBAD2DA0DB2998A91B62199F7090F7BC" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\chocolatey-visualstudio.extension.nupkg" checksum="8195567A08713394D10CD38FED64AA94" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\chocolatey-visualstudio.extension.nuspec" checksum="36AAE6CE8B1E88831E45978AFA2E5993" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\EXAMPLES.md" checksum="09AD418053556F3395347A80B95A2788" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\README.md" checksum="FAC8F4061794F48FE37548C646B17B76" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Add-VisualStudioComponent.ps1" checksum="8FBA7E7B35B7C973F48D2F37A73D4D04" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Add-VisualStudioWorkload.ps1" checksum="F5ADADC2C9CB75FC138B683AF70901F6" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Assert-VSInstallerUpdated.ps1" checksum="8BFEF45D05B19DDF5C4636E1BB044DE7" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\chocolatey-visualstudio.extension.psm1" checksum="E0C3014014DCD11C35E91C85BF00055F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Clear-VSChannelCache.ps1" checksum="49AC0CA3B7DBB6E21F2024693C28D8AF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Close-VSInstallSource.ps1" checksum="04F11FBF0146A53799AF6D26B670AAC3" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Convert-VSProductReferenceToChannelReference.ps1" checksum="9104309B2F55FF4C47C4EC5C16958302" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\ConvertTo-ArgumentString.ps1" checksum="6914629173E4958469DAF03EB8735573" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Generate-AdminFile.ps1" checksum="4F28A947BE52C59FE9295DED061559C0" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Generate-InstallArgumentsString.ps1" checksum="97B17D8BFDCE6954023197978D063956" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Generate-UninstallArgumentsString.ps1" checksum="0108609F19718BF65382FAEE9C6BA12D" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VisualStudioInstaller.ps1" checksum="435BACEBE4CEBCFFAD48B0DF65695472" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VisualStudioInstallerHealth.ps1" checksum="14D11473141835F2EE7300C9EA30D4C7" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VisualStudioInstance.ps1" checksum="549C451F2DACAAB050B43C6503A127E2" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VisualStudioVsixInstaller.ps1" checksum="312598246D45D71F59FB8DF25E07A960" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSBootstrapperUrlFromChannelManifest.ps1" checksum="E4A91B6B5447E6815CA055A8117BC53A" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSChannelManifest.ps1" checksum="335C34C7C88D378807B0AF759A976BB4" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSChannelManifestItem.ps1" checksum="1279463F2086C9FD94F541B8C5E7BF23" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSChannelManifestItemUrl.ps1" checksum="A6BB2B83D07C60AE6FE69BE0039F50AC" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSChannelReference.ps1" checksum="144B335473FF705E0B589BDB8CD6DE7A" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSChannelUri.ps1" checksum="72E9068B99B2E33F3F1EBD4853FC2E62" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSComponentManifest.ps1" checksum="E0E2FAA856C91151DBF74BC9EFEB0B04" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSLegacyInstance.ps1" checksum="07CB0185D6BA29F8A13C21899D42BF94" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSManifest.ps1" checksum="2270318319618776D842152DBDD58059" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSProductReference.ps1" checksum="9B3D7AB03AAAAFF2CEF9EC633B4B6DF1" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSRequiredInstallerVersion.ps1" checksum="04CC4D43A2F7CD9AA1C3479C81895A42" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSUninstallerExePath.ps1" checksum="BDB0AF13371B13802EDC3EDC0BFBA3D6" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSUninstallRegistryKey.ps1" checksum="5024A2FE69FCB2AF74BA8588C512C12F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-VSWebFile.ps1" checksum="52DEF5399579B2EF1232FB15529AE2C1" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Get-WillowInstalledProducts.ps1" checksum="948491296AE770DF70C63FE4A35473CF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VisualStudio.ps1" checksum="F3E0DCC215650A12A51CE267F7E39C2F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VisualStudioInstaller.ps1" checksum="59823E7EE29FDE268564B19DFB6392CC" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VisualStudioVsixExtension.ps1" checksum="3491F94092ADE85AC9A002AED23B72C9" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VSChocolateyInstallPackage.ps1" checksum="F9B167CAA42C4C297CF9EEF4838AFB47" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VSChocolateyPackage.ps1" checksum="3AEC6A4C96279D4A9997E976374095DF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Install-VSInstaller.ps1" checksum="F9FE38EE7C26926B03920A17633B011F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Merge-AdditionalArguments.ps1" checksum="F772CACBB7B41F9155557A37377B6DD6" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\New-VSChannelReference.ps1" checksum="561EE6B8B141014374D7381394427937" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\New-VSProductReference.ps1" checksum="2E29D2E4FCAF6E68D60E8B177F1A50CF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Open-VSInstallSource.ps1" checksum="626D2097D22FBBA959D8BE4F2C97C6B3" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Parse-Parameters.ps1" checksum="278448A8E79A6F0D68DCCDC60605AC7C" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Remove-NegatedArguments.ps1" checksum="AA28818DC101EFAD813A1EA8566C79D9" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Remove-VisualStudioComponent.ps1" checksum="A363D541F3739E4DC0382D426925F10F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Remove-VisualStudioProduct.ps1" checksum="CA2DF81C1BA381977F977EDC1BB4411A" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Remove-VisualStudioWorkload.ps1" checksum="5708B5892FC23870EF0B364EE7E7A65F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Remove-VSPackageParametersNotPassedToNativeInstaller.ps1" checksum="2F85FE29C1CF87779EEEB5F3DD55700B" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Resolve-VSLayoutPath.ps1" checksum="26182B3B3C5DD5DA1E16486634399AFF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Resolve-VSProductInstance.ps1" checksum="21C54688A7EA9F32CDB76FECBD4D11A7" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Set-PowerShellExitCode.ps1" checksum="9500C804E5DA7EB590AA8F7B9A01DA89" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Start-VSChocolateyProcessAsAdmin.ps1" checksum="FB242CE34F74D974C6B95A77ADD5C5B9" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Start-VSModifyOperation.ps1" checksum="B585FEA80388D4E3FB6323893DD8FF68" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Start-VSServicingOperation.ps1" checksum="B30B00300AFB264D0FEFCB5C64882C6F" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Uninstall-VisualStudio.ps1" checksum="F8FB41BC89E6FC2A360348C612BCD168" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Uninstall-VisualStudioVsixExtension.ps1" checksum="5FB148D5E3E56E8356A3F3B07BB728B8" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Uninstall-VSChocolateyPackage.ps1" checksum="8D0D9A53D4246797762D8916A3191484" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Update-AdminFile.ps1" checksum="AC9DFAB9DE00BE2591F1C71BE0A80DBF" />
+    <file path="C:\ProgramData\chocolatey\lib\chocolatey-visualstudio.extension\extensions\Wait-VSInstallerProcesses.ps1" checksum="83D9EFE444C78E6D62F94354AF61F63D" />
+  </files>
+</fileSnapshot>

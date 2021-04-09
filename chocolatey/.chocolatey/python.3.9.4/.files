@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\python\python.nupkg" checksum="087DB094C1A127E1103A7B29EFBAD8AF" />
+    <file path="C:\ProgramData\chocolatey\lib\python\python.nuspec" checksum="5E8B27525D9A3164F29538BC2F74BD2B" />
+  </files>
+</fileSnapshot>

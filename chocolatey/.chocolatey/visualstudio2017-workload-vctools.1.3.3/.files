@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\visualstudio2017-workload-vctools\visualstudio2017-workload-vctools.nupkg" checksum="E8FC9403193E785B699837C3ABED6122" />
+    <file path="C:\ProgramData\chocolatey\lib\visualstudio2017-workload-vctools\visualstudio2017-workload-vctools.nuspec" checksum="B0F33A04A13AAAD66DB0B0A2534C413D" />
+    <file path="C:\ProgramData\chocolatey\lib\visualstudio2017-workload-vctools\tools\.skipAutoUninstall" checksum="D41D8CD98F00B204E9800998ECF8427E" />
+    <file path="C:\ProgramData\chocolatey\lib\visualstudio2017-workload-vctools\tools\ChocolateyInstall.ps1" checksum="DE0CC7B9D7990B01E24B5E7CDCE6D06B" />
+    <file path="C:\ProgramData\chocolatey\lib\visualstudio2017-workload-vctools\tools\ChocolateyUninstall.ps1" checksum="DE9E9272E74C247C4913EC808FB1B79F" />
+  </files>
+</fileSnapshot>

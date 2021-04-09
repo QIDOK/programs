@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\vcredist140\vcredist140.nupkg" checksum="42C941497B0F8AB8FDD8DEDA002A4248" />
+    <file path="C:\ProgramData\chocolatey\lib\vcredist140\vcredist140.nuspec" checksum="EC28B26E6BF8D53EBEEE7B487CB906A2" />
+    <file path="C:\ProgramData\chocolatey\lib\vcredist140\tools\chocolateyInstall.ps1" checksum="A09076EA0C66633E37D23221F963DE6B" />
+    <file path="C:\ProgramData\chocolatey\lib\vcredist140\tools\chocolateyUninstall.ps1" checksum="0FFC57B43B4BD80ABCFD3A38D2AE4680" />
+    <file path="C:\ProgramData\chocolatey\lib\vcredist140\tools\data.ps1" checksum="7E48C57C43A333586F5D850A6F0B204F" />
+  </files>
+</fileSnapshot>
